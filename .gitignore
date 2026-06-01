@@ -1,0 +1,8 @@
+build/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+.DS_Store
+._*
+Sources/Assets.xcassets/AppIcon.appiconset/*.png
